@@ -15,3 +15,10 @@
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefslima&show_icons=true)
+
+
+## Data Science Projects
+Rossmann Stores Sales Prediction
+
+https://github.com/jefslima/Rossmann-Store-Prediction
+<img src="https://bbj.hu/uploads/banners/201409/rossmanjpg_2014090414295134.webp"/> <br>
